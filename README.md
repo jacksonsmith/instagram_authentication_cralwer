@@ -9,3 +9,5 @@ Python 3 instagram login Crawler
 
 2 - run: pip install -r requirements.txt in your shell.
 
+3 - run: python3 crawler.py 
+
